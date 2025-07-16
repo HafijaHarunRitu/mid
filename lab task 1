@@ -1,0 +1,32 @@
+<<!DOCTYPE html>
+<html>
+<body>
+    <h1>Name:hafija harun ritu </h1>
+    <h2>my name is ritu ,I am university student studying software enginnering.i enjoy learning about codeing,
+        in my free time i like explor new watching movie.</h2>
+     <h3>my hobbies include reading book,wathging movie,drawing. 
+        <Br>i also enjoy gardening   and spending time outdoors</Br> 
+    </h3>
+    <h4>reading book  <Br>
+        watching movie <Br>
+            gardening<Br>
+                spending time outdoors</Br>
+
+    <h4>
+        <p 
+        style="color:red;">my hobbies</p>
+       <p 
+        style="color:blue;"> reading book  <Br>
+        <p
+         style="color:brown;">watching movie <Br>
+           <p
+         style="color:burlywood;"> gardening<Br>
+                <p
+         style="color:blanchedalmond;">spending time outdoors</Br>
+         </h4>
+
+     
+
+
+</body>    
+</html>
