@@ -1,0 +1,77 @@
+<<!DOCTYPE html>
+<html>
+<body>
+    <center>
+    <h1>Blank management partner </h1>
+    <h2>your trusted financial partner</h2>
+    </center>
+    <h3>Coustomer registration from</h3>
+    <h4>
+        <td>full name :</td><td><input type= "text"
+        
+        </td> 
+        </h4>
+        <br>
+         
+        <td>date of birth :</td><td><input type= "date"
+        
+        </td>    <br>
+        <tr>
+            <td>Gender</td>
+        <td><input type ="radio"name="des">male</td>
+        <td><input type ="radio"name="des">Femal</td>
+        <td><input type ="radio"name="des">other</td>
+        </tr>    <br>
+        <td>Marital Status</td><td>
+            <select name="Single">
+            <option value="">Single</option>
+            <option value="">Married</option>
+        </select>
+        </td>
+         <br>
+
+         <td>account type</td><td>
+            <select name="saving">
+            <option value="">saving</option>
+            <option value="">saving</option>
+        </select>
+        </td>
+         <br>
+        <h5>
+            <td>initial deposite amount:</td><td><input type= "text"
+            
+            </td> 
+            </h5>
+         <h6>
+            <td>Mobile number :</td><td><input type= "text"
+             </td> 
+        </h6> 
+        <h7>
+            <td>Email Address:</td><td><input type= "text"
+             </td> 
+             </h7>  <br>
+
+             <h8>
+                <td>Address:</td><td><input type= "text"
+
+         </h8> <br>
+         <h9>
+            <td>occupation:</td><td><input type= "text"
+         </h9>
+
+         <h
+
+
+
+
+
+
+        
+
+
+
+
+    
+
+    </body>    
+</html>
