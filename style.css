@@ -1,0 +1,42 @@
+body
+{
+    background-color: :navy;
+}
+form
+{
+  background-color:aquamarine; 
+  border:1px solid black;
+  width:20% ;
+  margin:auto;
+  padding:50px;
+
+}
+h1
+{
+    text-align:center;
+}
+input[type="Submit"]
+{
+     position: sticky;
+    padding:5px;
+    color:black;
+     background-color:beige;
+     cursor:pointer;
+
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 12px ,20px;
+  margin: 8px ;
+  box-sizing:border-box;
+}
+input[type=number]
+input[type=text]
+{
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ 
+}
